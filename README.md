@@ -30,6 +30,7 @@ preparation, automatization, researches, ML model building, BI tools for data vi
 ## 🌐 Contacts
 📩 **Email:** ourharlequin@gmail.com  
 🔗 **LinkedIn:** www.linkedin.com/in/budeshka
+🔗 **Telegram:** https://t.me/budeshka
 💻 **GitHub:** [github.com/ourharlequin](https://github.com/ourharlequin)  
 
 ---
